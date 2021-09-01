@@ -1,0 +1,11 @@
+ques:-1
+if("true"):
+    print("hii")
+if("true"):
+    print("hii")
+if("true"):
+    print("hii")
+if("false"):
+    print("hii")
+else:
+    print("bye")
